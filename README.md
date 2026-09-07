@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I am Mason Delor, and I am a 2nd year student @ Saginaw Valley State University. 
 
-<!--
-**M-Delor/M-Delor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📖 Academics 
+- Majoring in Computer Information Systems
+- Minoring in Cybersecurity
 
-Here are some ideas to get you started:
+ ## 🛠️ Coursework and Focus Areas: 
+- Object-Oriented Programming (Java)
+- Client-Side Web Application Development (HTML, CSS, Javascript)
+- Computer Science Statistics and Data Analysis (R)
+- Linux Fundamentals and Cybersecurity Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 External Profiles
+ - [Leetcode](https://leetcode.com/u/mason_vibez/)
+ - [TryHackMe](https://tryhackme.com/p/mjdelor02)
