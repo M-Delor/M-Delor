@@ -1,10 +1,10 @@
 👋 Hi, I am Mason Delor, and I am a 2nd year student @ Saginaw Valley State University. 
 
 ## 📖 Academics 
-- Majoring in Computer Information Systems
-- Minoring in Cybersecurity
+- B.S. in Computer Information Systems
+- Minor in Cybersecurity
 
- ## 🛠️ Coursework and Focus Areas: 
+ ## 🛠️ Current Coursework: 
 - Object-Oriented Programming (Java)
 - Client-Side Web Application Development (HTML, CSS, Javascript)
 - Computer Science Statistics and Data Analysis (R)
